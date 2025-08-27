@@ -4,3 +4,5 @@ print ("iniciando estudos2")
 print ("iniciando estudos3")
 print ("iniciando estudos_4")
 print ("iniciando estudos_5")
+print ("iniciando estudos_6")
+
